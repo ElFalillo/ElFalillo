@@ -8,7 +8,6 @@
 
 <h1 align="center">Raúl Ortiz</h1>
 <p align="center">Informática · Redes · Ciberseguridad</p>
-# Hola, soy Raúl Ortiz 👋
 
 ### Informática · Redes · Ciberseguridad
 
