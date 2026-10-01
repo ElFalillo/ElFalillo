@@ -1,3 +1,13 @@
+<p align="center">
+  <img
+    src="./assets/portada-terminal.gif"
+    alt="Ordenador con una terminal animada que presenta el perfil de Raúl Ortiz"
+    width="850"
+  />
+</p>
+
+<h1 align="center">Raúl Ortiz</h1>
+<p align="center">Informática · Redes · Ciberseguridad</p>
 # Hola, soy Raúl Ortiz 👋
 
 ### Informática · Redes · Ciberseguridad
