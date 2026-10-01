@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    src=""
-    alt="Ordenador con una terminal animada que presenta el perfil de Raúl Ortiz"
-    width="850"
+    src="./assets/portada-terminal.gif"
+    alt="Ordenador con terminal animada de Raúl Ortiz"
+    width="500"
   />
 </p>
 
