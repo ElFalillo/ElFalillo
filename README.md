@@ -2,7 +2,7 @@
   <img
     src="./assets/portada-terminal (1).gif"
     alt="Ordenador con terminal animada de Raúl Ortiz"
-    width="500"
+    width="850"
   />
 </p>
 
